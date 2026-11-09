@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ejemplo genérico de addenda para CFDI. Adáptalo a la especificación de cada cliente: los nombres de los nodos, los campos obligatorios y el namespace cambian de un portal a otro. Los valores son de muestra. -->
+<cfdi:Addenda>
+  <AddendaCliente>
+    <NumeroOrdenCompra>OC-000000</NumeroOrdenCompra>
+    <NumeroEntrega>ENT-000000</NumeroEntrega>
+    <Tienda>0000</Tienda>
+    <Departamento>Departamento ejemplo</Departamento>
+    <Observaciones>Valores de muestra — reemplazar por los datos reales de la factura.</Observaciones>
+  </AddendaCliente>
+</cfdi:Addenda>
